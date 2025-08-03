@@ -62,9 +62,8 @@ And dynamically generates:
 
 ## 👨‍💻 Developer
 
-**Vaibhav Araikar**  
-🔗 GitHub: [github.com/vaibhav-araikar](https://github.com/vaibhav-araikar)  
-🔗 LinkedIn: [linkedin.com/in/vaibhav-araikar-105825320](https://www.linkedin.com/in/vaibhav-araikar-105825320/)
+[**Vaibhav Araikar**](https://www.linkedin.com/in/vaibhav-araikar-105825320/)  
+🔗 GitHub: [**Vaibhav Araikar**](https://github.com/vaibhav-araikar)
 
 ---
 
